@@ -15,3 +15,5 @@ Point for the task: Total - 10 points
 - Display Number of Threads - 1 point
 - Display Number of Files Done - 1 point
 - Display Max and Min Found Primary Number - 2 points
+
+Note: no Producer created 
